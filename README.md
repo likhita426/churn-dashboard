@@ -19,11 +19,7 @@ Customers aged 41–50, with lower credit scores and mid-range account balances,
 
 This project shows how Power BI transforms raw data into powerful business insights — turning ~𝘴𝘱𝘳𝘦𝘢𝘥𝘴𝘩𝘦𝘦𝘵𝘴~ 𝘪𝘯𝘵𝘰 ~𝘴𝘵𝘰𝘳𝘪𝘦𝘴~ 𝘢𝘯𝘥 𝘥𝘢𝘵𝘢 𝘪𝘯𝘵𝘰 𝘥𝘦𝘤𝘪𝘴𝘪𝘰𝘯𝘴.
 
-## 📊 Screenshots / Demos  
-
+## 📊 Screenshots / Demos 
 Show what the dashboard looks like.  
-- ![Churn Analysis Dashboard](https://github.com/yourusername/your-repo-name/assets/dashboard.png)
-
-**Example:**  
-![Dashboard Preview](https://github.com/yourusername/your-repo-name/assets/churn_dashboard.png)
+![Dashboard Preview](https://github.com/likhita426/churn-dashboard/blob/main/Screenshot%202025-11-04%20160845.png)
 
