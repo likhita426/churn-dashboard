@@ -17,7 +17,7 @@ Thrilled to share my latest Power BI project — a Bank Customer Churn Analysis 
 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
 Customers aged 41–50, with lower credit scores and mid-range account balances, show the highest churn rates — highlighting where customer retention efforts should focus.
 
-This project shows how Power BI transforms raw data into powerful business insights — turning ~𝘴𝘱𝘳𝘦𝘢𝘥𝘴𝘩𝘦𝘦𝘵𝘴~ 𝘪𝘯𝘵𝘰 ~𝘴𝘵𝘰𝘳𝘪𝘦𝘴~ 𝘢𝘯𝘥 𝘥𝘢𝘵𝘢 𝘪𝘯𝘵𝘰 𝘥𝘦𝘤𝘪𝘴𝘪𝘰𝘯𝘴.
+This project shows how Power BI transforms raw data into powerful business insights — turning 𝘴𝘱𝘳𝘦𝘢𝘥𝘴𝘩𝘦𝘦𝘵𝘴 𝘪𝘯𝘵𝘰 𝘴𝘵𝘰𝘳𝘪𝘦𝘴 𝘢𝘯𝘥 𝘥𝘢𝘵𝘢 𝘪𝘯𝘵𝘰 𝘥𝘦𝘤𝘪𝘴𝘪𝘰𝘯𝘴.
 
 ## 📊 Screenshots / Demos 
 Show what the dashboard looks like.  
